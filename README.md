@@ -9,7 +9,7 @@ Compilation of personal and online courses projects. This portfolio, as a whole,
 Project descriptionThis competition aims to build counterfactual models to predict buildings' energy usage. A successful model should scale well and minimize the Root Mean Squared Log Error. Counterfactual models are estimates of energy usage before any improvements are made within the building. This estimate is then compared with the actual energy usage after the improvements to calculate energy usage and confirm that the improvements are in fact working.
 
 
-## [Article Recommendations](https://github.com/Abdishakury/recommendations_with_IBM/README.md)
+## [Article Recommendations](https://github.com/Abdishakury/recommendations_with_IBM)
 #### Jan 2020
 This project focuses on analyzing interactions between users and articles on the IBM Watson Studio platform. New article recommendations are made to users based on their interactions with articles. Based on the data available, we can use various methods to make these recommendations. The methods used here are Rank Based, Collaborative Filtering, and Matrix Factorization.
 
